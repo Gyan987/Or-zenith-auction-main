@@ -4,7 +4,7 @@
 
 ### Advanced Soroban NFT Auction Protocol on Stellar
 
-**Bridging digital liquidity with unique physical assets via secure on-chain escrow and decentralized asset verification.**
+**Bridging digital liquidity with unique physical assets via secure on-chain escrow and decentralized asset verification.** 
 
 ![Soroban](https://img.shields.io/badge/Soroban-25-blue?style=flat-square&logo=stellar)
 ![Rust](https://img.shields.io/badge/Rust-2021-orange?style=flat-square&logo=rust)
