@@ -1,6 +1,6 @@
 # Rust's output directory
 target
 
-# Local settings
+# Local settings 
 .soroban
 .stellar
