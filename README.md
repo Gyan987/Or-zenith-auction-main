@@ -1289,7 +1289,7 @@ zenith-auction/
 
 ## License
 
-MIT © Zenith Auction Protocol
+MIT © Zenith Auction Protocol 
 
 ---
 
